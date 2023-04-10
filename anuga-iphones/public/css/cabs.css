@@ -1,0 +1,63 @@
+.navs{
+	height: 60px;
+	width: auto;
+	background-color: #f7931a;
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	font-weight: bolder;
+}
+
+#curvy{
+	padding-top: 60px;
+    display: block;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bolder;
+    font-size: 93.75%;
+    }
+
+#chubby{
+	margin-top: 60px;
+}
+.thicky{
+	background-color: black;
+	height: 300px;
+	width: auto;
+}
+.ribon{
+	text-align: center;
+	color: white;
+	padding-top: 85px;
+
+}
+.cbon{
+	text-align: center;
+	color: #9d9d9d;
+	font-weight: bolder;
+	padding-top: 40px;
+}
+#big{
+	text-align: right;
+}
+#bigg{
+	text-align: left;
+}
+.choco{
+	text-align: center;
+	color: orange;
+	padding-top: 250px;
+}
+.shorty{
+	height: 400px;
+	width: auto;
+	background-color: black;
+	padding-top: 50px;
+	margin-bottom: 10px;
+}
+
+.freaky{
+	color: inherit;
+	display: block;
+	font-size: 106.25%;
+	line-height: 17px;
+}
